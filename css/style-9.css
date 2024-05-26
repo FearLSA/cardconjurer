@@ -145,12 +145,14 @@
 	z-index: -1;
 	width: 100vw;
 	height: 100vh;
-	background: var(--site-background);
+	background: var(--site-background), rgba(165, 42, 42, 0.5); /* Off red overlay with 50% opacity */
 	background-repeat: no-repeat;
 	background-attachment: fixed;
 	background-size: cover;
 	background-position: center;
 	filter: var(--regular-backdrop-filter);
+}
+
 }
 html {
 	font-size: 12pt;
