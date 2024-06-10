@@ -6,8 +6,8 @@
     </g>
     <defs>
         <radialGradient id="_Radial1" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="matrix(867.797,-488.136,488.136,867.797,960,540)">
-            <stop offset="0" style="stop-color:rgb(211,211,211);stop-opacity:1"/>
-            <stop offset="1" style="stop-color:rgb(169,169,169);stop-opacity:1"/>
+            <stop offset="0" style="stop-color:rgb(169,169,169);stop-opacity:1"/>
+            <stop offset="1" style="stop-color:rgb(105,105,105);stop-opacity:1"/>
         </radialGradient>
     </defs>
 </svg>
